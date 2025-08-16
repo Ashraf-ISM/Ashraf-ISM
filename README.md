@@ -6,8 +6,8 @@
 ---
 
 ## 🪪 About Me
-I’m a **geophysicist-in-training** with expertise in **Machine Learning applications in geoscience**.  
-Currently pursuing **M.Sc.(Tech) in Applied Geophysics at IIT(ISM) Dhanbad**, I integrate:
+I’m Md Ashraf, an M.Sc.(Tech) Applied Geophysics student at IIT(ISM) Dhanbad with hands-on experience in machine learning for geoscience, petrophysical analysis, and seismic data processing. My projects range from building a PyQt-based petrophysics GUI and developing facies classification models, to analyzing GPS data for co-seismic deformation. Skilled in Python, MATLAB, and industry-standard geoscience tools, I aim to integrate data-driven methods into exploration and hazard assessment workflows., 
+
 - **Programming skills** (Python, MATLAB, LaTeX)
 - **Domain expertise** (seismic data acquisition, processing and interpretation, seismology, GPS geodesy)
 - **Research experience** (earthquake studies, seismic data analysis, well log analysis)  
@@ -46,8 +46,8 @@ Currently pursuing **M.Sc.(Tech) in Applied Geophysics at IIT(ISM) Dhanbad**, I 
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf8434&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf8434&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-ISM&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-ISM&theme=dark" height="160" />
 </p>
 
 ---
