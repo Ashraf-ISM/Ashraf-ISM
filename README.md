@@ -59,6 +59,7 @@ I’m Md Ashraf, an M.Sc.(Tech) Applied Geophysics student at IIT(ISM) Dhanbad w
 | [Petrophysical Interpretation GUI](https://github.com/Ashraf-ISM/Petrophysics-Gui/tree/Product-Development) | GUI for well log interpretation (porosity, shale volume, Sw) | Python, PyQt, LASIO, Plotly |
 | [Earthquake Declustering using ML](https://github.com/Ashraf8434/DECLUSTERING-ML) | Hybrid statistical + ML declustering for seismic catalogs | Python, Pandas, ML models |
 | [Well-Log Analysis Toolkit](https://github.com/Ashraf8434/Well-Log) | Data preprocessing, QC, visualization tools for well logs | Python, Plotly |
+| [Portfolio Website](https://ash-geophysics.netlify.app/#) | Personal portfolio website showcasing projects, skills, and achievements | HTML, CSS, JavaScript, React, TailwindCSS |
 
 ---
 
