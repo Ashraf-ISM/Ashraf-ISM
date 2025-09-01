@@ -55,8 +55,8 @@ I’m Md Ashraf, an M.Sc.(Tech) Applied Geophysics student at IIT(ISM) Dhanbad w
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Facies Classification Using ML](https://github.com/Ashraf8434/Facies-classification-using-ml) | Supervised & Unsupervised ML for electrofacies prediction from Hugoton & Panoma well logs | Python, scikit-learn, XGBoost |
-| [Petrophysical Interpretation GUI](https://github.com/Ashraf8434/Petrophysics-GUI) | GUI for well log interpretation (porosity, shale volume, Sw) | Python, PyQt, LASIO, Plotly |
+| [Facies Classification Using ML](https://github.com/Ashraf-ISM/Facies-classification-using-ml/tree/main) | Supervised & Unsupervised ML for electrofacies prediction from Hugoton & Panoma well logs | Python, scikit-learn, XGBoost |
+| [Petrophysical Interpretation GUI](https://github.com/Ashraf-ISM/Petrophysics-Gui/tree/Product-Development) | GUI for well log interpretation (porosity, shale volume, Sw) | Python, PyQt, LASIO, Plotly |
 | [Earthquake Declustering using ML](https://github.com/Ashraf8434/DECLUSTERING-ML) | Hybrid statistical + ML declustering for seismic catalogs | Python, Pandas, ML models |
 | [Well-Log Analysis Toolkit](https://github.com/Ashraf8434/Well-Log) | Data preprocessing, QC, visualization tools for well logs | Python, Plotly |
 
