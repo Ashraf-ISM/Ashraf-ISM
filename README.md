@@ -1,4 +1,4 @@
-# <div align="center">**Md Ashraf** | *Computational Geophysicist & AI Research Engineer*</div>
+# <div align="center">Ashraf | AI-ML in Geo science </div>
 
 <div align="center">
 
