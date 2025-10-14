@@ -1,530 +1,44 @@
-# <div align="center">Ashraf | AI-ML in Geo science </div>
-
 <div align="center">
 
-<!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,4,5,6&height=120&section=header&text=COMPUTATIONAL%20GEOPHYSICS%20RESEARCH&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Ashraf&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-<!-- Clean Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=M.Sc.(Tech)+Applied+Geophysics+%7C+IIT(ISM)+Dhanbad;Machine+Learning+in+Geoscience+%7C+Research+Scientist;AI-Driven+Seismic+Analysis+%7C+Earthquake+Studies" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Computational+Geophysicist+%F0%9F%8C%8D;AI%2FML+Research+Scholar+%F0%9F%A7%AA;Final+Year+MSc(Tech)+Student+%F0%9F%8E%93;IIT+(ISM)+Dhanbad+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
 
-<!-- Professional Status -->
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/🎓_Education-M.Sc.(Tech)_Applied_Geophysics-1e40af?style=for-the-badge&logoColor=white&labelColor=1e3a8a" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/🏛️_Institution-IIT(ISM)_Dhanbad-3730a3?style=for-the-badge&logoColor=white&labelColor=1e3a8a" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/🔬_Research-AI_in_Geoscience-7c3aed?style=for-the-badge&logoColor=white&labelColor=1e3a8a" />
-</td>
-</tr>
-</table>
-
-<!-- Contact Links -->
+<!-- Animated Badges -->
 <p>
-  <a href="https://ash-geophysics.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Research_Profile-2563eb?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1e3a8a" />
-  </a>
-  <a href="https://linkedin.com/in/ashraf-iit-ism" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e3a8a" />
-  </a>
-  <a href="mailto:md_ashraf_ali.84@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Research_Contact-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e3a8a" />
-  </a>
+  <img src="https://img.shields.io/badge/🎓_MSc(Tech)-Applied_Geophysics-blue?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e3a8a&color=2563eb" />
+  <img src="https://img.shields.io/badge/🏛️_IIT(ISM)-Dhanbad-purple?style=for-the-badge&logo=university&logoColor=white&labelColor=5b21b6&color=7c3aed" />
+  
+  <img src="https://img.shields.io/badge/🔬_Focus-AI/ML_in_Geoscience-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=9a3412&color=f97316" />
 </p>
 
-<!-- Research Metrics -->
+<!-- Profile Views & Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ashraf-ISM&color=2563eb&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Research_Experience-2+_Years-1e40af?style=for-the-badge&labelColor=1e3a8a" />
-  <img src="https://img.shields.io/badge/Active_Projects-8+-3730a3?style=for-the-badge&labelColor=1e3a8a" />
+  <img src="https://komarev.com/ghpvc/?username=Ashraf-ISM&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ashraf-ISM?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ashraf-ISM?label=Stars&style=for-the-badge&color=10b981&logo=github" alt="Stars" />
 </p>
 
-</div>
-
----
-
-## **Research Profile & Academic Background**
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### **🎯 Research Vision**
-*Advancing computational geophysics through innovative AI/ML applications to enhance our understanding of Earth's subsurface processes and contribute to sustainable exploration methodologies.*
-
-### **🔬 Core Research Areas**
-- **Machine Learning in Seismic Analysis**: Neural networks for automated seismic interpretation
-- **Petrophysical Modeling**: Data-driven reservoir characterization approaches
-- **Earthquake Science**: GPS geodesy and ML applications in seismology
-- **Geophysical Inversion**: Optimization algorithms for subsurface imaging
-
-### **📚 Academic Timeline**
-```
-2023 ──► Started M.Sc.(Tech) Applied Geophysics at IIT(ISM) Dhanbad
-2024 ──► Research Internship at Indian Institute of Science (IISc) Bangalore
-2025 ──► Industrial Training at Oil and Natural Gas Corporation (ONGC) Chennai
-```
-
-### **🏆 Key Achievements**
-- **Academic Excellence**: First-class academic performance with research focus
-- **Research Impact**: 8+ completed projects with industry applications
-- **Technical Innovation**: 15+ open-source contributions to geoscience community
-- **Professional Development**: Industry and academic research experience
-
-</td>
-<td width="40%" valign="top">
-
-### **📊 Research Metrics**
-
-```python
-research_profile = {
-    "institution": "IIT(ISM) Dhanbad",
-    "program": "M.Sc.(Tech) Applied Geophysics",
-    "specialization": "AI in Geoscience",
-    "experience": "2+ years",
-    "projects_completed": 8,
-    "publications_in_prep": 3,
-    "conference_presentations": 4,
-    "github_repositories": 15,
-    "lines_of_code": "100K+",
-    "data_processed": "5TB+"
-}
-```
-
-### **🎯 Current Focus Areas**
-<img src="https://img.shields.io/badge/Primary-Seismic_AI-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/Secondary-Earthquake_ML-1e40af?style=flat-square" />
-<img src="https://img.shields.io/badge/Emerging-Neural_Petrophysics-3730a3?style=flat-square" />
-
-### **📈 Progress Indicators**
-| **Area** | **Progress** |
-|:---------|:-------------|
-| **Research Completion** | ![95%](https://progress-bar.dev/95?color=2563eb&width=200) |
-| **Publication Pipeline** | ![70%](https://progress-bar.dev/70?color=1e40af&width=200) |
-| **PhD Preparation** | ![80%](https://progress-bar.dev/80?color=3730a3&width=200) |
-| **Industry Experience** | ![85%](https://progress-bar.dev/85?color=7c3aed&width=200) |
-
-</td>
-</tr>
-</table>
-
----
-
-## **Technical Expertise & Research Tools**
-
-<div align="center">
-
-### **Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=python,matlab,r,tensorflow,pytorch,git,linux,vscode&perline=8&theme=light" />
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### **Programming & Data Science**
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white)
-
-**Machine Learning Frameworks:**
-- **TensorFlow/Keras**: Deep learning for seismic analysis
-- **PyTorch**: Research model development
-- **scikit-learn**: Classical ML and preprocessing
-- **XGBoost**: Gradient boosting for classification
-
-### **Scientific Computing**
-```python
-libraries = {
-    "data_analysis": ["NumPy", "Pandas", "SciPy"],
-    "visualization": ["Matplotlib", "Plotly", "Seaborn"],
-    "geoscience": ["ObsPy", "LASIO", "PyGMT"],
-    "ml_frameworks": ["TensorFlow", "PyTorch", "scikit-learn"]
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### **Geoscience Software**
-![OpendTect](https://img.shields.io/badge/OpendTect-Professional-2563eb?style=flat)
-![Seismic Unix](https://img.shields.io/badge/Seismic_Unix-Advanced-1e40af?style=flat)
-![GMT](https://img.shields.io/badge/GMT/PyGMT-Advanced-3730a3?style=flat)
-![GAMIT](https://img.shields.io/badge/GAMIT/GLOBK-Intermediate-7c3aed?style=flat)
-
-**Specialized Tools:**
-- **Seismic Processing**: OpendTect, Seismic Unix, Madagascar
-- **GPS Analysis**: GAMIT/GLOBK, PyGMT for geodetic processing
-- **Well Log Analysis**: LASIO, Python-based petrophysical tools
-- **Visualization**: PyQt for GUI development, Plotly for interactive plots
-
-### **Research Applications**
-| **Domain** | **Tools Used** | **Proficiency** |
-|:-----------|:---------------|:----------------|
-| **Seismic Analysis** | OpendTect, ML Models | ![90%](https://progress-bar.dev/90?color=2563eb&width=100) |
-| **GPS Geodesy** | GAMIT/GLOBK, PyGMT | ![85%](https://progress-bar.dev/85?color=1e40af&width=100) |
-| **Petrophysics** | LASIO, Custom Tools | ![88%](https://progress-bar.dev/88?color=3730a3&width=100) |
-| **ML Development** | Python, TensorFlow | ![92%](https://progress-bar.dev/92?color=7c3aed&width=100) |
-
-</td>
-</tr>
-</table>
-
----
-
-## **Professional Experience**
-
-<div align="center">
-
-### **Research & Industry Timeline**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### **🔬 IISc Bangalore Research Internship (2024)**
-**Focus:** GPS Geodesy & Earthquake Science
-
-**Project:** Co-seismic Deformation Analysis of 2015 Gorkha Earthquake
-
-**Key Contributions:**
-- Processed 500+ GPS stations across Himalayan region
-- Implemented GAMIT/GLOBK processing workflows
-- Developed automated time series analysis tools
-- Applied ML techniques for earthquake pattern recognition
-
-**Technical Achievements:**
-```python
-project_metrics = {
-    "gps_stations_processed": 500,
-    "time_series_length": "5 years",
-    "accuracy_achieved": "sub-centimeter",
-    "processing_automation": "90%",
-    "ml_model_accuracy": "87%"
-}
-```
-
-**Research Impact:**
-- Generated high-precision displacement maps
-- Contributed to understanding of Himalayan seismic processes
-- Manuscript in preparation for peer-reviewed publication
-
-</td>
-<td width="50%" valign="top">
-
-### **⛽ ONGC Chennai Industrial Training (2025)**
-**Focus:** Exploration Geophysics & Industry Applications
-
-**Training Areas:**
-- Marine and onshore seismic data acquisition
-- Advanced seismic processing workflows
-- Vertical Seismic Profiling (VSP) interpretation
-- Synthetic seismogram generation and modeling
-
-**Professional Development:**
-- Industry-standard software proficiency (Petrel, GeoFrame)
-- Real-world exploration project management
-- Technical communication and presentation skills
-- Integration of AI/ML with conventional interpretation
-
-**Innovation Projects:**
-```python
-innovation_areas = [
-    "Automated seismic quality control",
-    "ML-enhanced first break picking",
-    "Deep learning for geological interpretation",
-    "Reservoir characterization using ensemble methods"
-]
-```
-
-**Learning Outcomes:**
-- Bridge academic research with industry practices
-- Understand commercial exploration workflows
-- Develop professional networks in energy sector
-
-</td>
-</tr>
-</table>
-
----
-
-## **Research Portfolio**
-
-<div align="center">
-
-### **Featured Projects**
-
-</div>
-
-<table width="100%">
-<thead>
-<tr>
-<th width="25%">**Project**</th>
-<th width="35%">**Description**</th>
-<th width="20%">**Technology**</th>
-<th width="10%">**Status**</th>
-<th width="10%">**Links**</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>**🧠 Facies Classification ML**</td>
-<td>Advanced machine learning pipeline for electrofacies prediction using ensemble methods on Hugoton & Panoma well datasets</td>
-<td>Python, XGBoost, scikit-learn, Optuna</td>
-<td>![Complete](https://img.shields.io/badge/Complete-28a745?style=flat)</td>
-<td>[![GitHub](https://img.shields.io/badge/Code-black?logo=github)](https://github.com/Ashraf-ISM/Facies-classification-using-ml)</td>
-</tr>
-<tr>
-<td>**🖥️ Petrophysics GUI**</td>
-<td>Professional desktop application for comprehensive well log interpretation with real-time calculations and interactive visualization</td>
-<td>PyQt, LASIO, Plotly, NumPy</td>
-<td>![Active](https://img.shields.io/badge/Active-2563eb?style=flat)</td>
-<td>[![GitHub](https://img.shields.io/badge/Code-black?logo=github)](https://github.com/Ashraf-ISM/Petrophysics-Gui)</td>
-</tr>
-<tr>
-<td>**🌍 Earthquake Declustering**</td>
-<td>Hybrid statistical and machine learning approach for seismic catalog declustering and mainshock-aftershock identification</td>
-<td>Python, Pandas, ML Models, Statistical Analysis</td>
-<td>![Review](https://img.shields.io/badge/Review-orange?style=flat)</td>
-<td>[![GitHub](https://img.shields.io/badge/Code-black?logo=github)](https://github.com/Ashraf8434/DECLUSTERING-ML)</td>
-</tr>
-<tr>
-<td>**📊 Well Log Toolkit**</td>
-<td>Comprehensive suite for well log data preprocessing, quality control, and automated interpretation workflows</td>
-<td>Python, Streamlit, LASIO, Plotly</td>
-<td>![Complete](https://img.shields.io/badge/Complete-28a745?style=flat)</td>
-<td>[![GitHub](https://img.shields.io/badge/Code-black?logo=github)](https://github.com/Ashraf8434/Well-Log)</td>
-</tr>
-<tr>
-<td>**🌐 Research Portfolio**</td>
-<td>Modern responsive website showcasing research projects, achievements, and professional profile</td>
-<td>React, TailwindCSS, JavaScript</td>
-<td>![Live](https://img.shields.io/badge/Live-00C7B7?style=flat)</td>
-<td>[![Website](https://img.shields.io/badge/Visit-2563eb?logo=react)](https://ash-geophysics.netlify.app)</td>
-</tr>
-</tbody>
-</table>
-
-### **Project Impact Metrics**
-
-<div align="center">
-
-| **Metric** | **Value** |
-|:-----------|:----------|
-| **Total Projects** | 15+ repositories |
-| **Code Quality** | 100K+ lines of research code |
-| **Data Processed** | 5TB+ geophysical datasets |
-| **Model Accuracy** | Up to 94.8% in classification tasks |
-| **Industry Adoption** | 3+ companies using developed tools |
-| **Community Impact** | 1K+ downloads and forks |
-
-</div>
-
----
-
-## **GitHub Analytics**
-
-<div align="center">
-
-### **Development Statistics**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-ISM&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=374151&custom_title=Research%20Development%20Statistics" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-ISM&theme=default&hide_border=true&stroke=2563eb&ring=2563eb&fire=dc2626&currStreakLabel=2563eb" height="180" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-ISM&bg_color=ffffff&color=2563eb&line=1e40af&point=374151&area=true&hide_border=true&custom_title=Research%20Development%20Activity" width="100%" />
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-ISM&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=374151&langs_count=8&custom_title=Primary%20Research%20Languages" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashraf-ISM&theme=default" />
-</td>
-</tr>
-</table>
-
-### **Research Metrics**
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-1000+-2563eb?style=for-the-badge" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Repositories-25+-1e40af?style=for-the-badge" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Lines_of_Code-100K+-3730a3?style=for-the-badge" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Contribution_Streak-200+_Days-7c3aed?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## **Research Objectives & Future Plans**
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### **🎯 2025-2026 Research Goals**
-
-**Immediate Objectives (2025):**
-- Complete M.Sc.(Tech) with distinction
-- Submit first-author research publications
-- Secure PhD admission with funding
-- Expand industry collaboration network
-
-**Medium-term Goals (2026):**
-- Establish PhD research foundation
-- Lead international research projects
-- Present at major conferences (AGU, SEG)
-- Develop proprietary AI algorithms
-
-**Long-term Vision (2027+):**
-- Become recognized expert in Geophysical AI
-- Launch innovative research initiatives
-- Build sustainable research ecosystem
-- Mentor next generation of researchers
-
-### **🔬 Research Focus Areas**
-
-```python
-research_priorities = {
-    "primary": "Deep Learning for Seismic Interpretation",
-    "secondary": "GPS/ML Earthquake Analysis", 
-    "emerging": "Neural Network Petrophysics",
-    "interdisciplinary": "Climate-Geology ML Models"
-}
-
-phd_targets = [
-    "Stanford University - Geophysics",
-    "MIT - Earth Sciences", 
-    "Caltech - Applied Physics",
-    "University of Cambridge - Earth Sciences"
-]
-```
-
-</td>
-<td width="40%" valign="top">
-
-### **📈 Progress Tracking**
-
-**Academic Milestones:**
-| **Goal** | **Progress** | **Deadline** |
-|:---------|:------------:|:------------:|
-| M.Sc.(Tech) Defense | ![95%](https://progress-bar.dev/95?color=2563eb&width=120) | May 2025 |
-| Research Publications | ![70%](https://progress-bar.dev/70?color=1e40af&width=120) | Mar 2025 |
-| PhD Applications | ![80%](https://progress-bar.dev/80?color=3730a3&width=120) | Feb 2025 |
-| Conference Presentations | ![85%](https://progress-bar.dev/85?color=7c3aed&width=120) | Jun 2025 |
-
-**Research Impact Goals:**
-- **Publications**: 3+ peer-reviewed papers
-- **Citations**: Build research visibility  
-- **Collaborations**: 5+ international partnerships
-- **Software**: 20+ open-source contributions
-
-**Professional Development:**
-- **Networking**: Expand academic connections
-- **Skills**: Advanced AI/ML techniques
-- **Leadership**: Research team management
-- **Communication**: Technical presentation skills
-
-</td>
-</tr>
-</table>
-
----
-
-## **Professional Network & Collaboration**
-
-<div align="center">
-
-### **Research Collaboration Opportunities**
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### **🎓 Academic**
+<!-- Social Links with Hover Effect -->
 <p>
   <a href="https://ash-geophysics.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Research_Profile-2563eb?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-ff6b6b?style=for-the-badge&logoColor=white" />
   </a>
-</p>
-<p>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
-    <img src="https://img.shields.io/badge/Scholar-Publications-4285f4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-</p>
-<p>
-  <a href="https://orcid.org/YOUR_ID">
-    <img src="https://img.shields.io/badge/ORCID-Research_ID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-</p>
-
-</td>
-<td width="33%" align="center">
-
-### **💼 Professional**
-<p>
-  <a href="mailto:md_ashraf_ali.84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Research_Contact-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p>
   <a href="https://linkedin.com/in/ashraf-iit-ism">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:23mc0049@iitism.ac.in">
+    <img src="https://img.shields.io/badge/Email-Academic-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:ashraf.ism49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ashraf-ISM">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p>
-  <a href="https://calendly.com/ashraf-research">
-    <img src="https://img.shields.io/badge/Schedule-Research_Meeting-7c3aed?style=for-the-badge&logo=calendly&logoColor=white" />
-  </a>
-</p>
-
-</td>
-<td width="33%" align="center">
-
-### **🌐 Community**
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ashraf-ISM&color=2563eb&style=for-the-badge&label=Research+Impact" />
-</p>
-<p>
-  <img src="https://img.shields.io/github/followers/Ashraf-ISM?color=1e40af&style=for-the-badge&logo=github&label=Network" />
-</p>
-<p>
-  <img src="https://img.shields.io/github/stars/Ashraf-ISM?color=3730a3&style=for-the-badge&logo=github&label=Recognition" />
-</p>
-
-</td>
-</tr>
-</table>
-
-### **🤝 Collaboration Matrix**
-
-| **Type** | **Focus Areas** | **Status** | **Contact** |
-|:---------|:----------------|:----------:|:-----------:|
-| **PhD Research** | AI in Geophysics, Computational Seismology | Seeking | [![Email](https://img.shields.io/badge/Email-dc2626?style=flat&logo=gmail)](mailto:md_ashraf_ali.84@gmail.com) |
-| **Industry Projects** | ML Applications, Software Development | Available | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/ashraf-iit-ism) |
-| **Academic Research** | Joint Publications, Grant Proposals | Open | [![Calendar](https://img.shields.io/badge/Schedule-7c3aed?style=flat&logo=calendly)](https://calendly.com/ashraf-research) |
-| **International Exchange** | Visiting Research, Cross-cultural Studies | Interested | [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=About.me)](https://ash-geophysics.netlify.app) |
 
 </div>
 
@@ -532,19 +46,532 @@ phd_targets = [
 
 <div align="center">
 
-<!-- Professional Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,4,5,6&height=80&section=footer&text=RESEARCH%20×%20INNOVATION%20×%20EXCELLENCE&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
+## 🚀 **About Me**
 
-### **"Advancing Earth Sciences Through Intelligent Computing"**
+</div>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=14&duration=4000&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Research+Scientist+%7C+AI+Engineer+%7C+Computational+Geophysicist;Building+Tomorrow's+Geoscience+Solutions;Always+Learning+%7C+Always+Researching+%7C+Always+Contributing" />
-</p>
+```python
+class GeophysicsResearcher:
+    def __init__(self):
+        self.name = "Md Ashraf"
+        self.role = "Final Year MSc(Tech) Student | AI/ML in Geophysics"
+        self.education = {
+            "current": "MSc(Tech) Applied Geophysics",
+            "institution": "IIT(ISM) Dhanbad",
+            "graduation": "May 2026",
+            "specialization": "Machine Learning in Geoscience"
+        }
+        self.previous_education = {
+            "degree": "BSc Physics (Hons)",
+            "university": "Patna University",
+            "percentage": "74.38%",
+            "year": "2019-2022"
+        }
+        self.research_areas = [
+            "Seismic Interpretation & AI",
+            "Earthquake Science & GPS Geodesy",
+            "Petrophysical Modeling & Reservoir Characterization",
+            "Machine Learning for Geophysical Data Analysis"
+        ]
+        
+    def current_status(self):
+        return {
+            "thesis": "ML Approach to Earthquake Declustering",
+            "internships_completed": ["IISc Bangalore", "ONGC Chennai"],
+            "projects": "10+ Completed",
+            "skills": ["Python", "MATLAB", "ML/DL", "Geophysical Software"],
+            "seeking": "PhD Opportunities & Research Collaborations"
+        }
+    
+    def achievements(self):
+        return {
+            "scholarships": ["DST-Inspire", "ONGC"],
+            "air_rank": "11 in JMI MSc Physics Entrance",
+            "leadership": "Secretary, EAGE IIT ISM Student Chapter",
+            "field_experience": "4+ Training Programs"
+        }
+```
+
+<div align="center">
+
+---
+## 🎓 Education
+
+<table>
+<tr>
+<td width="33%">
+
+### 🏛️ **IIT (ISM) Dhanbad**
+**M.Sc. (Tech) in Applied Geophysics**
+<br>
+📅 *2023 - 2026*
+
+<img src="https://img.shields.io/badge/Status-Final_Year-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-AI/ML_in_Geoscience-blue?style=flat-square" />
+
+**Key Coursework:**
+- Machine Learning in Seismology
+- Geophysical Data Processing
+- Reservoir Characterization
+- Computational Methods
+
+**Award:** ONGC Scholar (2023-2025)
+
+</td>
+<td width="33%">
+
+### 🎓 **Patna University**
+**B.Sc. (Honours) in Physics**
+<br>
+📅 *2019 - 2022*
+
+<img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Scholarship-DST_INSPIRE-purple?style=flat-square" />
+
+**Highlights:**
+- Graduated from Patna Science College.
+- Awarded the DST-INSPIRE Scholarship by the Govt. of India for academic excellence.
+- Built a strong foundation in theoretical and experimental physics.
+
+</td>
+<td width="33%">
+
+### 🏫 **Pre-University Education**
+**Islamia High School, Saharsa**
+<br>
+📅 *Graduated 2019*
+
+<img src="https://img.shields.io/badge/Achievement-District_Topper-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Stream-Science-lightgrey?style=flat-square" />
+
+**Notable Achievement:**
+- 🏆 Secured the rank of **District Second Topper** in the Class 10 Board Examinations.
+- Maintained a consistent record of high academic performance.
+
+</td>
+</tr>
+</table>
+---
+
+## 💼 **Professional Experience**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### ⛽ **ONGC Chennai**
+**Industrial Internship** | *June 2025 - July 2025*
+
+<img src="https://img.shields.io/badge/Focus-Seismic_Exploration-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Software-DecisionSpace-10b981?style=flat-square" />
+
+**Mentor:** Dr. Nagendra M Babu
+
+**Key Work:**
+- 🔍 **Seismic Interpretation:** Horizon picking, contour mapping, time-depth conversion, well tie
+- 📊 **Attribute Analysis:** RMS amplitude, phase, coherence extraction
+- 🗺️ **Reservoir Mapping:** Isopach and isochore map generation
+- 💧 **Volumetric Calculations:** Reservoir characterization and production assessment
+- 🧮 **Inversion Techniques:** Post-stack and pre-stack inversion for hydrocarbon prospect evaluation
+
+**Skills Gained:**
+- Industry-standard workflows
+- DecisionSpace proficiency
+- Commercial exploration practices
+- Real-world project management
+
+</td>
+<td width="50%">
+
+### 🔬 **IISc Bangalore**
+**SRFP Summer Research Intern** | *May 2024 - July 2024*
+
+<img src="https://img.shields.io/badge/Focus-GPS_Geodesy-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Earthquake_Science-dc2626?style=flat-square" />
+
+**Mentors:** Dr. Attreyee Ghosh, Dr. Prabhat Kumar
+
+**Research Project:**
+- 🌍 **Topic:** 2015 Gorkha Earthquake crustal deformation analysis
+- 📡 **Data Processing:** GAMIT/GLOBK for GPS data analysis
+- 📊 **Stations:** 26 GNSS + 12 IGS stations (2010-2016)
+- 📈 **Output:** Earthquake time-series, surface movements, deformation patterns
+
+**Technical Achievement:**
+- Sub-centimeter precision displacement mapping
+- Automated time series analysis tools
+- Understanding Himalayan seismic processes
+- Manuscript preparation skills
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
-**Research Excellence** • **Technical Innovation** • **Professional Growth** • **Global Collaboration**
+## 🏕️ **Field Training Experience**
 
-<sub>*"Transforming our understanding of Earth through the power of artificial intelligence and computational methods."*</sub>
+</div>
+
+<details open>
+<summary><b>🌍 Comprehensive Geophysical Field Work</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### ⛰️ **Geological Field Training**
+**Location:** Tetulmari, Basudebpur  
+**Date:** December 2023
+
+**Activities:**
+- 🧭 Map orientation and navigation
+- 🔄 Front and back bearing measurements
+- 🪨 Rock type and mineralogy analysis
+- 💪 Rock strength assessment with field tests
+- 📐 Dip and strike measurement of geological structures
+
+</td>
+<td width="50%">
+
+### 🌊 **Winter Geophysical Field Training**
+**Location:** Baliapur (Chhotanagpur Belt)  
+**Date:** December 2024
+
+**Methods Applied:**
+- 🧲 Magnetic & susceptibility surveys
+- 📡 Seismic Reflection & Refraction (21-channel Geometrics Geode)
+- 🎵 HVSR measurements (GEObit Seismometer)
+- 🌐 Active & passive seismic data acquisition
+- ⚡ DC Resistivity & ERT surveys (48 & 96-channel IRIS)
+- 🔋 Induced Polarization Dipole-Dipole survey (IRIS ELREC)
+- ⚖️ Gravity data collection (CG5 & CG6 Autogravimeters)
+- 📶 Ground Penetrating Radar (GPR) with GSSI system
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<div align="center">
+
+---
+
+## 🛠️ **Technology Arsenal**
+
+<img src="https://skillicons.dev/icons?i=python,matlab,github,git,vscode,linux,windows&perline=8" />
+
+</div>
+
+<details open>
+<summary><b>💻 Technical Skills Matrix</b></summary>
+<br>
+
+| Category | Technologies & Tools |
+|----------|---------------------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **ML/DL Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=flat) |
+| **Visualization** | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white) |
+| **Geophysical Software** | DecisionSpace • Tesseral Pro • Seismic Unix (SU) • GAMIT/GLOBK • GMT |
+| **Geoscience Libraries** | ObsPy • LASIO • PyGMT |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=flat&logo=qt&logoColor=white) |
+
+</details>
+
+<details>
+<summary><b>⚡ Skill Proficiency Levels</b></summary>
+<br>
+
+```text
+Python Programming      ████████████████████░  95%
+Machine Learning        ████████████████████░  90%
+Seismic Interpretation  ████████████████░░░░░  85%
+GPS Geodesy            ████████████████░░░░░  82%
+Petrophysics           █████████████████░░░░  88%
+Data Visualization     ████████████████░░░░░  87%
+MATLAB                 ████████████████░░░░░  80%
+Geophysical Software   █████████████████░░░░  85%
+```
+
+</details>
+
+<div align="center">
+
+---
+
+## 🎯 **Research & Projects**
+
+</div>
+
+<div align="center">
+
+### 🔥 **Master's Thesis** (Ongoing)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🌍 **Machine Learning Approach to Earthquake Declustering**
+
+<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Duration-July_2025_--_Present-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supervisor-Dr._Niptika_Jana-purple?style=for-the-badge" />
+
+**Research Objectives:**
+- 🔍 Developing ML models to separate dependent and independent seismic events from earthquake catalogs
+- 📊 Applying statistical and machine learning techniques to improve seismic hazard assessment
+- 🎯 Generating cleaner datasets for more accurate earthquake analysis and modeling
+- 🧪 Comparing traditional statistical methods with modern ML approaches
+
+**Expected Outcomes:**
+- Novel ML algorithms for earthquake declustering
+- Improved accuracy in mainshock-aftershock separation
+- Enhanced seismic hazard assessment methodologies
+
+`Python` `Machine Learning` `Seismology` `Statistical Analysis` `Data Processing`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📂 **Featured Academic Projects**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Ashraf-ISM/Facies-classification-using-ml">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-ISM&repo=Facies-classification-using-ml&theme=default&border_color=2563eb&title_color=2563eb&icon_color=2563eb" />
+</a>
+
+### **🧠 ML-Based Facies Prediction**
+
+<img src="https://img.shields.io/badge/Duration-Mar_2025_--_Apr_2025-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-purple?style=flat-square" />
+
+**Project Highlights:**
+- 📊 Analyzed well log data using statistical methods
+- 🔮 Generated missing PE logs for facies identification
+- 🤖 Trained supervised & unsupervised classification models
+- ✅ Validated predictions with known lithofacies data
+- 🎯 **Achieved 94.8% accuracy** using XGBoost
+
+`Python` `XGBoost` `scikit-learn` `Optuna` `Well Logs`
+
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/Ashraf-ISM/Petrophysics-Gui">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-ISM&repo=Petrophysics-Gui&theme=default&border_color=7c3aed&title_color=7c3aed&icon_color=7c3aed" />
+</a>
+
+### **🖥️ Petrophysics Analysis GUI**
+
+<img src="https://img.shields.io/badge/Duration-Sep_2024_--_Nov_2024-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-purple?style=flat-square" />
+
+**Application Features:**
+- 📁 Multi-format file support (LAS, DLIS, CSV, XLSX)
+- 📐 Real-time petrophysical calculations (Archie's equation, Vsh, φe, NTG)
+- 📊 Interactive visualizations (triple combo, histograms, cross-plots)
+- 🎚️ Graphical parameter adjustment sliders
+- 💾 Export capabilities for processed data
+
+`PyQt` `LASIO` `Plotly` `NumPy` `Qt Designer`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Ashraf8434/DECLUSTERING-ML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf8434&repo=DECLUSTERING-ML&theme=default&border_color=10b981&title_color=10b981&icon_color=10b981" />
+</a>
+
+### **🌍 Earthquake Declustering Tool**
+
+<img src="https://img.shields.io/badge/Status-Under_Review-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Research_Tool-green?style=flat-square" />
+
+**Tool Capabilities:**
+- 🔄 Hybrid statistical and ML approach
+- 📈 Mainshock-aftershock identification
+- 🗂️ Seismic catalog preprocessing
+- 🎯 Advanced clustering algorithms
+- 📊 Comparative analysis with traditional methods
+
+`Python` `Pandas` `scikit-learn` `Statistical Methods`
+
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/Ashraf8434/Well-Log">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf8434&repo=Well-Log&theme=default&border_color=dc2626&title_color=dc2626&icon_color=dc2626" />
+</a>
+
+### **📊 GORGONICHTHYS-1 Well Analysis**
+
+<img src="https://img.shields.io/badge/Duration-Mar_2024_--_Apr_2024-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-purple?style=flat-square" />
+
+**Comprehensive Study:**
+- 🔍 Outlier detection & QC
+- 📉 Shale volume estimation
+- 🌊 Porosity calculations
+- 💧 Water saturation analysis
+- 🏔️ Advanced reservoir characterization
+
+`Python` `Streamlit` `LASIO` `Plotly` `Seaborn`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+
+</div>
+
+<div align="center">
+
+---
+
+## 📊 **GitHub Analytics**
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashraf-ISM&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&border_color=2563eb&title_color=2563eb&icon_color=7c3aed&text_color=374151&bg_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ashraf-ISM&theme=transparent&border_radius=10&border=2563eb&ring=2563eb&fire=dc2626&currStreakLabel=2563eb&dates=374151" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-ISM&layout=compact&theme=transparent&border_radius=10&border_color=2563eb&title_color=2563eb&text_color=374151&bg_color=ffffff&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-ISM&theme=github-compact&hide_border=false&border_radius=10&custom_title=Contribution%20Activity&color=2563eb&line=7c3aed&point=dc2626&area=true&area_color=2563eb" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+### 🏆 **GitHub Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashraf-ISM&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
+</div>
+
+<div align="center">
+
+---
+
+----
+
+## 🤝 **Connect & Collaborate**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎓 **Academic**
+
+<a href="https://ash-geophysics.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Research_Profile-2563eb?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://scholar.google.com">
+<img src="https://img.shields.io/badge/Scholar-Publications-4285f4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+
+<a href="https://orcid.org">
+<img src="https://img.shields.io/badge/ORCID-Research_ID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
+<a href="https://www.researchgate.net">
+<img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 💼 **Professional**
+
+<a href="mailto:md_ashraf_ali.84@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Research_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/ashraf-iit-ism">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Ashraf-ISM">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 **Community**
+
+<img src="https://komarev.com/ghpvc/?username=Ashraf-ISM&color=2563eb&style=for-the-badge&label=Research+Impact" />
+
+<img src="https://img.shields.io/github/followers/Ashraf-ISM?color=7c3aed&style=for-the-badge&logo=github&label=Network" />
+
+<img src="https://img.shields.io/github/stars/Ashraf-ISM?color=10b981&style=for-the-badge&logo=github&label=Recognition" />
+
+<a href="https://github.com/Ashraf-ISM?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-orange?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 📬 **Open for Collaborations**
+
+<img src="https://img.shields.io/badge/PhD_Research-Seeking_Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Industry_Projects-Available-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Academic_Research-Open_to_Collaborate-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/International_Exchange-Interested-orange?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **"Transforming Earth Sciences Through Intelligent Computing"**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Research+Scientist+%7C+AI+Engineer+%7C+Computational+Geophysicist;Always+Learning+%7C+Always+Researching+%7C+Always+Contributing" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Research_Excellence-⭐-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/Technical_Innovation-🚀-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Professional_Growth-📈-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Global_Collaboration-🌍-purple?style=flat-square" />
+</p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<sub>⭐ Star my repositories if you find them useful! • 🍴 Fork and contribute to open science!</sub>
 
 </div>
