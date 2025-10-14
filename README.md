@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Ashraf&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Computational+Geophysicist+%F0%9F%8C%8D;AI%2FML+Research+Scholar+%F0%9F%A7%AA;Final+Year+MSc(Tech)+Student+%F0%9F%8E%93;IIT+(ISM)+Dhanbad+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Computational+Geophysics+%F0%9F%8C%8D;AI%2FML+in+Geoscience%F0%9F%A7%AA;Final+Year+MSc(Tech)+Student+%F0%9F%8E%93;IIT+(ISM)+Dhanbad+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
 
 <!-- Animated Badges -->
 <p>
@@ -64,7 +64,6 @@ class GeophysicsResearcher:
         self.previous_education = {
             "degree": "BSc Physics (Hons)",
             "university": "Patna University",
-            "percentage": "74.38%",
             "year": "2019-2022"
         }
         self.research_areas = [
@@ -78,17 +77,9 @@ class GeophysicsResearcher:
         return {
             "thesis": "ML Approach to Earthquake Declustering",
             "internships_completed": ["IISc Bangalore", "ONGC Chennai"],
-            "projects": "10+ Completed",
+            "projects": "5+ Completed",
             "skills": ["Python", "MATLAB", "ML/DL", "Geophysical Software"],
             "seeking": "PhD Opportunities & Research Collaborations"
-        }
-    
-    def achievements(self):
-        return {
-            "scholarships": ["DST-Inspire", "ONGC"],
-            "air_rank": "11 in JMI MSc Physics Entrance",
-            "leadership": "Secretary, EAGE IIT ISM Student Chapter",
-            "field_experience": "4+ Training Programs"
         }
 ```
 
@@ -115,8 +106,6 @@ class GeophysicsResearcher:
 - Reservoir Characterization
 - Computational Methods
 
-**Award:** ONGC Scholar (2023-2025)
-
 </td>
 <td width="33%">
 
@@ -130,16 +119,16 @@ class GeophysicsResearcher:
 
 **Highlights:**
 - Graduated from Patna Science College.
-- Awarded the DST-INSPIRE Scholarship by the Govt. of India for academic excellence.
+- Awarded the DST-INSPIRE Scholarship by the Govt. of India.
 - Built a strong foundation in theoretical and experimental physics.
 
 </td>
 <td width="33%">
 
-### 🏫 **Pre-University Education**
+### 🏫 **Higher Secondary Education**
 **Islamia High School, Saharsa**
 <br>
-📅 *Graduated 2019*
+📅 *2015- 2019*
 
 <img src="https://img.shields.io/badge/Achievement-District_Topper-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Stream-Science-lightgrey?style=flat-square" />
@@ -353,7 +342,7 @@ Geophysical Software   █████████████████░░
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Ashraf-ISM/Facies-classification-using-ml">
+<a href="https://github.com/Ashraf-ISM/Facies-classification-using-ml/tree/main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-ISM&repo=Facies-classification-using-ml&theme=default&border_color=2563eb&title_color=2563eb&icon_color=2563eb" />
 </a>
 
@@ -397,7 +386,7 @@ Geophysical Software   █████████████████░░
 
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Ashraf8434/DECLUSTERING-ML">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf8434&repo=DECLUSTERING-ML&theme=default&border_color=10b981&title_color=10b981&icon_color=10b981" />
 </a>
 
@@ -559,9 +548,6 @@ Geophysical Software   █████████████████░░
 <div align="center">
 
 ### 💡 **"Transforming Earth Sciences Through Intelligent Computing"**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Research+Scientist+%7C+AI+Engineer+%7C+Computational+Geophysicist;Always+Learning+%7C+Always+Researching+%7C+Always+Contributing" alt="Typing SVG" />
-
 <p>
   <img src="https://img.shields.io/badge/Research_Excellence-⭐-gold?style=flat-square" />
   <img src="https://img.shields.io/badge/Technical_Innovation-🚀-blue?style=flat-square" />
