@@ -439,10 +439,6 @@ $R = r^{df} \cdot 10^{-b m / 2}$  (Rescaled Distance)
 
 > *"Moving from fixed empirical rules to adaptive, physics-informed machine learning creates regionally transferable frameworks for global seismicity analysis."*
 
-**Impact Metrics:**
-- 📈 **3.5%** improvement over classical methods
-- 🌍 Scalable to any tectonic region worldwide
-- 🔬 Physically interpretable features (not black-box AI)
 
 </td>
 </tr>
