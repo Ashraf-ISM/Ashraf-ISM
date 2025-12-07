@@ -303,36 +303,150 @@ Geophysical Software   █████████████████░░
 <div align="center">
 
 ### 🔥 **Master's Thesis** (Ongoing)
-
 </div>
-
 <table>
 <tr>
 <td align="center" width="100%">
 
-### 🌍 **Machine Learning Approach to Earthquake Declustering**
-
+### 🌍 **Machine Learning for Earthquake Declustering**
+<div align="center">
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Duration-July_2025_--_Present-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Duration-July_2025_→_Present-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Supervisor-Dr._Niptika_Jana-purple?style=for-the-badge" />
+</div>
 
-**Research Objectives:**
-- 🔍 Developing ML models to separate dependent and independent seismic events from earthquake catalogs
-- 📊 Applying statistical and machine learning techniques to improve seismic hazard assessment
-- 🎯 Generating cleaner datasets for more accurate earthquake analysis and modeling
-- 🧪 Comparing traditional statistical methods with modern ML approaches
+---
 
-**Expected Outcomes:**
-- Novel ML algorithms for earthquake declustering
-- Improved accuracy in mainshock-aftershock separation
-- Enhanced seismic hazard assessment methodologies
+#### 🎯 **The Challenge**
+> *How do we separate independent mainshocks from dependent aftershocks in complex seismic zones?*
 
-`Python` `Machine Learning` `Seismology` `Statistical Analysis` `Data Processing`
+Traditional methods (Reasenberg, Gardner-Knopoff) use **fixed thresholds** that fail in regions like New Zealand's Alpine Fault and Hikurangi Subduction Zone.
+
+**Our Solution:** Adaptive, threshold-free ML framework trained on physics-based synthetic catalogues.
+
+---
+
+#### 🧬 **Methodology Pipeline**
+
+
+| **Stage** | **Details** |
+|-----------|-------------|
+| 🔬 **Synthetic Training** | ETAS model generates labeled background/triggered events |
+| 📐 **Feature Engineering** | 5 NND-derived features: `T` (time), `R` (distance), `Δm` (magnitude), `η` (composite), `parent index` |
+| 🤖 **Model Selection** | XGBoost outperforms Random Forest, Gradient Boosting, SVM |
+| 🎯 **Target Metric** | **η = T × R** — unified space-time-energy clustering measure |
+
+---
+
+#### 🗺️ **Case Study: New Zealand Seismicity**
+
+<div align="center">
+
+**📍 Pacific-Australian Plate Boundary**  
+`396,267 events` • `1980–2024` • `Magnitude ≥ 2.2`
+
+</div>
+
+| **Tectonic Feature** | **Event Type** | **Classification** |
+|---------------------|----------------|-------------------|
+| 🏔️ Alpine Fault | Background | 58.23% |
+| 🌊 Hikurangi Subduction | Background | Independent events |
+| 💥 Canterbury Region | Triggered | 41.75% |
+| ⚡ Kaikōura 2016 | Aftershock Cluster | Dense clustering |
+
+---
+
+#### 📊 **Model Performance**
+
+<div align="center">
+
+| Model | Accuracy | Recall | F1-Score |
+|-------|----------|--------|----------|
+| **🏆 XGBoost** | **97.44%** | **98.7%** | **98.2%** |
+| Gradient Boosting | 97.11% | — | — |
+| Random Forest | 96.72% | 95.15% | 97.91% |
+| SVM | 94.36% | 94.36% | 94.40% |
+
+</div>
+
+**Confusion Matrix Highlights:**
+- ✅ **98.7%** triggered events correctly identified
+- ✅ **94.4%** background events correctly classified
+
+---
+
+#### 💡 **Key Innovation**
+
+<div align="center">
+
+**Nearest-Neighbor Distance (NND) Analysis**
+### Nearest-Neighbor Distance (NND) Metric
+
+$\eta_{ij} = T_{ij} \times R_{ij}$
+
+where:
+
+$T = t \cdot 10^{-b m / 2}$  (Rescaled Time)  
+$R = r^{df} \cdot 10^{-b m / 2}$  (Rescaled Distance)
+
+
+</div>
+
+**Why it works:** Bimodal distribution naturally separates:
+- 🟢 **Close η values** → Aftershock clusters
+- 🔵 **Distant η values** → Independent events
+
+---
+
+#### 🚀 **Current Progress & Impact**
+
+<div align="center">
+
+| Phase | Status |
+|-------|--------|
+| ✅ ETAS Parameter Estimation | Complete |
+| ✅ NZ Catalogue Classification | Complete |
+| 🔄 Regional Transfer (California, Japan) | In Progress |
+| ⏳ PSHA Framework Integration | Upcoming |
+
+</div>
+
+**Real-World Applications:**
+- 🗺️ Enhanced seismic hazard maps for building codes
+- ⚡ Improved earthquake early warning systems
+- 🎯 Accurate foreshock-mainshock-aftershock sequencing
+
+---
+
+#### 🛠️ **Technology Stack**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+
+**Core Libraries:** `ETAS Model` • `NND Analysis` • `Seaborn` • `Geospatial Tools`
+
+</div>
+
+---
+
+#### 🌟 **Why This Matters**
+
+> *"Moving from fixed empirical rules to adaptive, physics-informed machine learning creates regionally transferable frameworks for global seismicity analysis."*
+
+**Impact Metrics:**
+- 📈 **3.5%** improvement over classical methods
+- 🌍 Scalable to any tectonic region worldwide
+- 🔬 Physically interpretable features (not black-box AI)
 
 </td>
 </tr>
 </table>
-
 <div align="center">
 
 ### 📂 **Featured Academic Projects**
