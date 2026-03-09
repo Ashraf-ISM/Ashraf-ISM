@@ -293,7 +293,7 @@ Geophysical Software   █████████████████░░
 </details>
 
 <div align="center">
-
+<!-- This is a comment 
 ---
 
 ## 🎯 **Research & Projects**
@@ -414,10 +414,7 @@ $R = r^{df} \cdot 10^{-b m / 2}$  (Rescaled Distance)
 **Real-World Applications:**
 - 🗺️ Enhanced seismic hazard maps for building codes
 - ⚡ Improved earthquake early warning systems
-- 🎯 Accurate foreshock-mainshock-aftershock sequencing
-
----
-
+- 🎯 Accurate foreshock-mainshock-aftershock sequencing -->
 #### 🛠️ **Technology Stack**
 
 <div align="center">
