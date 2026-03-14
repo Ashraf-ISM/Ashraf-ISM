@@ -351,10 +351,10 @@ Geophysical Software   █████████████████░░
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf8434&repo=DECLUSTERING-ML&theme=default&border_color=10b981&title_color=10b981&icon_color=10b981" />
+<img src="https://github.com/Ashraf-ISM/master-thesis-declustering-using-ml/tree/main" />
 </a>
 
-### **🌍 Earthquake Declustering Tool**
+### **🌍 Machine-Learning Approach for Earthquake Declustering **
 
 <img src="https://img.shields.io/badge/Status-Under_Review-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Type-Research_Tool-green?style=flat-square" />
