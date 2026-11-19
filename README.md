@@ -168,206 +168,24 @@ Geophysical Software    █████████████████░�
 </details>
 
 ---
-
 <div align="center">
 
 ## 📂 **Featured Projects**
 
 *Software and research at the intersection of geophysics and AI*
 
-</div>
-
-<!-- ═════════════ FEATURED PROJECT ═════════════ -->
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<h3>🖥️ PetroARX — Python-Based Petrophysical Interpretation Platform</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Completed-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Software_Tool-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sep_2024_--_Nov_2024-6b7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-6b7280?style=flat-square" />
-</p>
-
-<p>
-  An interactive desktop application that turns raw well-log files into a complete petrophysical interpretation, with real-time calculations, visualizations, and exportable results, without writing a single line of code.
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>Key Features</b>
-<ul>
-  <li>Multi-format input: LAS, DLIS, CSV, XLSX</li>
-  <li>Real-time Archie's equation, V<sub>sh</sub>, φ<sub>e</sub>, and NTG</li>
-  <li>Slider-based parameter adjustment</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<b>Outputs</b>
-<ul>
-  <li>Interactive triple combo, histograms, and cross-plots</li>
-  <li>Export of processed logs and results</li>
-  <li>Reproducible, GUI-driven workflow</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<p>
-  <code>Python</code> <code>PyQt</code> <code>LASIO</code> <code>Plotly</code> <code>NumPy</code> <code>Qt Designer</code>
-</p>
-
-<p>
-  <a href="https://github.com/Ashraf-ISM/Petrophysics-Gui">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<!-- ═════════════ RESEARCH PROJECTS ═════════════ -->
-
-<table>
-<tr>
-
-<!-- Seismic Resolution Enhancement -->
-<td width="50%" valign="top">
-
-<h3>🌊 Seismic Resolution Enhancement</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Ongoing_Research-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Seismic-6b7280?style=flat-square" />
-</p>
-
-<p><b>Purpose:</b> Improving the vertical resolution of seismic data using self-supervised deep learning, without requiring paired high-resolution training data.</p>
-
-<ul>
-  <li>Self-supervised learning framework</li>
-  <li>Enhanced thin-bed detectability</li>
-  <li>Validation against conventional methods</li>
-</ul>
-
-<p>
-  <code>Python</code> <code>PyTorch</code> <code>Self-Supervised Learning</code> <code>Seismic</code>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Repository-Coming_Soon-6b7280?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-</td>
-
-<!-- Facies Prediction -->
-<td width="50%" valign="top">
-
-<h3>🧠 ML-Based Facies Prediction</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Completed-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mar_2025_--_Apr_2025-6b7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-6b7280?style=flat-square" />
-</p>
-
-<p><b>Purpose:</b> Predicting missing PE logs and classifying lithofacies from well-log data with supervised and unsupervised models.</p>
-
-<ul>
-  <li>Statistical analysis and QC of well logs</li>
-  <li>Validated against known lithofacies</li>
-  <li><b>94.8% accuracy</b> with XGBoost</li>
-</ul>
-
-<p>
-  <code>Python</code> <code>XGBoost</code> <code>scikit-learn</code> <code>Optuna</code> <code>Well Logs</code>
-</p>
-
-<p>
-  <a href="https://github.com/Ashraf-ISM/Facies-classification-using-ml">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-
-<!-- Gorgonichthys-1 -->
-<td width="50%" valign="top">
-
-<h3>📊 GORGONICHTHYS-1 Well Analysis</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Completed-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mar_2024_--_Apr_2024-6b7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supervisor-Dr._P.P._Mandal-6b7280?style=flat-square" />
-</p>
-
-<p><b>Purpose:</b> End-to-end petrophysical evaluation of a well, from data quality control to reservoir property estimation.</p>
-
-<ul>
-  <li>Outlier detection and log QC</li>
-  <li>Shale volume, porosity, and water saturation</li>
-  <li>Reservoir characterization and interpretation</li>
-</ul>
-
-<p>
-  <code>Python</code> <code>Streamlit</code> <code>LASIO</code> <code>Plotly</code> <code>Seaborn</code>
-</p>
-
-<p>
-  <a href="https://github.com/Ashraf8434/Well-Log">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-
-<!-- Earthquake Declustering -->
-<td width="50%" valign="top">
-
-<h3>🌍 ML Approach for Earthquake Declustering</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Under_Review-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Master's_Thesis-6b7280?style=flat-square" />
-</p>
-
-<p><b>Purpose:</b> Separating mainshocks from aftershocks in seismic catalogs using a hybrid statistical and machine-learning approach.</p>
-
-<ul>
-  <li>Catalog preprocessing and clustering</li>
-  <li>Mainshock-aftershock identification</li>
-  <li>Comparison with traditional declustering methods</li>
-</ul>
-
-<p>
-  <code>Python</code> <code>Pandas</code> <code>scikit-learn</code> <code>Statistical Methods</code>
-</p>
-
-<p>
-  <a href="https://github.com/Ashraf-ISM/master-thesis-declustering-using-ml">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Ashraf-ISM?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
+
+| Project | Domain | Core Methods | Status |
+|:--|:--|:--|:--|
+| **PetroARX** | Petrophysics | PyQt GUI · Archie's equation · interactive logs | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
+| **Seismic Resolution Enhancement** | Seismic Processing | Self-supervised deep learning · PyTorch | ![Ongoing](https://img.shields.io/badge/-Ongoing-f59e0b?style=flat-square) |
+| **ML-Based Facies Prediction** | Well-Log Analysis | XGBoost · Optuna · supervised/unsupervised ML | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
+| **GORGONICHTHYS-1 Well Analysis** | Reservoir Evaluation | Log QC · Vsh · porosity · Sw · Streamlit | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
+| **ML Earthquake Declustering** | Seismology | Hybrid statistical + ML clustering | ![Under Review](https://img.shields.io/badge/-Under_Review-f59e0b?style=flat-square) |
+
+<br>
 
 ---
 
