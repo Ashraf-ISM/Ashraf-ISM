@@ -179,11 +179,11 @@ Geophysical Software    █████████████████░�
 
 | Project | Domain | Core Methods | Status |
 |:--|:--|:--|:--|
-| **PetroARX** | Petrophysics | PyQt GUI · Archie's equation · interactive logs | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
+| **PetroARX** | Petrophysics | PyQt GUI · Archie's equation · interactive logs | ![Completed](https://img.shields.io/badge/-Ongoing-2563eb?style=flat-square) |
 | **Seismic Resolution Enhancement** | Seismic Processing | Self-supervised deep learning · PyTorch | ![Ongoing](https://img.shields.io/badge/-Ongoing-f59e0b?style=flat-square) |
 | **ML-Based Facies Prediction** | Well-Log Analysis | XGBoost · Optuna · supervised/unsupervised ML | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
 | **GORGONICHTHYS-1 Well Analysis** | Reservoir Evaluation | Log QC · Vsh · porosity · Sw · Streamlit | ![Completed](https://img.shields.io/badge/-Completed-2563eb?style=flat-square) |
-| **ML Earthquake Declustering** | Seismology | Hybrid statistical + ML clustering | ![Under Review](https://img.shields.io/badge/-Under_Review-f59e0b?style=flat-square) |
+| **ML Earthquake Declustering** | Seismology | Hybrid statistical + ML clustering | ![Under Review](https://img.shields.io/badge/-Completed-f59e0b?style=flat-square) |
 
 <br>
 
