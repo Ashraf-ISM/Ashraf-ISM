@@ -127,9 +127,11 @@ Developing Python-based applications, interactive GUIs, and automated workflows 
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ **Technology Arsenal**
 
-<img src="https://skillicons.dev/icons?i=python,matlab,github,git,vscode,linux,windows&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,matlab,pytorch,tensorflow,sklearn,postgres,qt,github,git,vscode,linux,windows&perline=12" />
 
 </div>
 
@@ -139,17 +141,17 @@ Developing Python-based applications, interactive GUIs, and automated workflows 
 
 | Category | Technologies & Tools |
 |----------|---------------------|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat&logo=mathworks&logoColor=white) |
-| **ML/DL Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) |
-| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=flat) |
-| **Visualization** | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white) |
-| **Geophysical Software** | DecisionSpace • Tesseral Pro • Seismic Unix (SU) • Kingdom • Petra • Enverus • GAMIT/GLOBK • GMT |
-| **Geoscience Libraries** | ObsPy • LASIO • PyGMT |
+| **Programming & Query** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **ML / DL Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) |
+| **Scientific Computing** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) |
+| **Visualization & BI** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Spotfire](https://img.shields.io/badge/TIBCO_Spotfire-005A9C?style=flat) |
+| **GUI & Web Apps** | ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white) ![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=flat&logo=qt&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Geophysical Software** | ![DecisionSpace](https://img.shields.io/badge/DecisionSpace-CC0000?style=flat) ![Petrel](https://img.shields.io/badge/Petrel-0033A0?style=flat) ![Kingdom](https://img.shields.io/badge/Kingdom-0066B2?style=flat) ![Petra](https://img.shields.io/badge/Petra-004B87?style=flat) ![Enverus](https://img.shields.io/badge/Enverus-FF6600?style=flat) ![Tesseral Pro](https://img.shields.io/badge/Tesseral_Pro-2B547E?style=flat) ![Seismic Unix](https://img.shields.io/badge/Seismic_Unix_(SU)-3B3B3B?style=flat) ![GAMIT/GLOBK](https://img.shields.io/badge/GAMIT%2FGLOBK-2E5B88?style=flat) ![GMT](https://img.shields.io/badge/GMT-1E4620?style=flat) |
+| **Geoscience Libraries** | ![Segyio](https://img.shields.io/badge/segyio-1B4F72?style=flat) ![ObsPy](https://img.shields.io/badge/ObsPy-2874A6?style=flat) ![LASIO](https://img.shields.io/badge/lasio-1F618D?style=flat) ![DLISIO](https://img.shields.io/badge/dlisio-154360?style=flat) ![PyGMT](https://img.shields.io/badge/PyGMT-117864?style=flat) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Qt Designer](https://img.shields.io/badge/Qt_Designer-41CD52?style=flat&logo=qt&logoColor=white) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 
 </details>
-
 <details>
 <summary><b>⚡ Skill Proficiency Levels</b></summary>
 <br>
